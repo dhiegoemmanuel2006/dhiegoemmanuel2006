@@ -1,17 +1,39 @@
-# Olá, me chamo Dhiego Emmanuel
-**sou estudante de Engenharia de Software e apaixonado por programação, atualmente estudando e criando meus próprios projetos, enquanto estou em busca de um estágio ou alguma vaga com junior.**
+<h2 align="left">Hi 👋! My name is Dhiego and I'm a systems analysis and development student, from Brazil. I constantly study Java and MySQL with the focus on becoming a good back-end developer.</h2>
 
-Tenho a meta de adentrar na área como desenvolvedor back-end, para isso tenho me aprofundado vendo cursos e iniciando projetos com .NET e Java que são as tecnologias mais usadas atualmente nesse ramo e ver com qual me adequo mais. Com isso em meus repositórios vai poder notar diversos códigos que irei fazer no decorrer do tempo com o fim de aprimorar meus conhecimentos e me tornar um ótimo profissional.
+###
 
-## Tecnologias que estou aprendendo
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" widht="40" height="40"/>
-
-## Meios de contato
-<div>
-<a href="https://instagram.com/dhiego.emmanuel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:dhiego12052006@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dhiego-andrade-7701912b1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiegoemmanuel2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiegoemmanuel2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-          
-          
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:dhiego12052006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dhiegoandrade/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dhiegoemmanuel2006/dhiegoemmanuel2006/output/snake.svg" alt="Snake animation" />
+
+###
