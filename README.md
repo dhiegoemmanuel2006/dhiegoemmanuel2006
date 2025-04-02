@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhiego and I'm a systems analysis and development student, from Brazil. I constantly study Java and MySQL with the focus on becoming a good back-end developer.</h2>
+<h2 align="left">Olá, Me nome é Dhiego e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Eu estudo Java e MySQL constantemente com o foco em me tornar um bom desenvolvedor back-end e me tonar um ótimo profissional.</h2>
 
 ###
 
