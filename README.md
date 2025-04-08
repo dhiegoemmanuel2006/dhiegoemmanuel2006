@@ -33,7 +33,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhiegoemmanuel2006/dhiegoemmanuel2006/output/snake.svg" alt="Snake animation" />
-
 ###
