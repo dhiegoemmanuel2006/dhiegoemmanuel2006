@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Me nome é Dhiego e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Eu estudo Java e MySQL constantemente com o foco em me tornar um bom desenvolvedor back-end e me tonar um ótimo profissional.</h2>
+<h2 align="left">Olá, Me nome é Dhiego e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Em constante estudo em tecnologia de desenvolvimento back-end, incluindo, Java, MySQL, PostgreSQL, SQL entre outros</h2>
 
 ###
 
