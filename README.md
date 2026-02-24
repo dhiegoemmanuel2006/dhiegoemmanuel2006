@@ -1,11 +1,12 @@
-<h2 align="left">Olá, meu nome é Dhiego Andrade e sou graduando em Engenharia de Software pela Universidade Federal de Goiás (UFG).</h2>
+[cite_start]<h2 align="left">Olá, meu nome é Dhiego Andrade e sou graduando em Engenharia de Software pela Universidade Federal de Goiás (UFG). [cite: 46, 49]</h2>
 
 ### 🚀 Sobre Mim
-[cite_start]Focado em **Engenharia de Dados e Infraestrutura** [cite: 51][cite_start], possuo experiência no desenvolvimento de automações inteligentes, fluxos de ETL e sistemas escaláveis[cite: 58, 62, 78]. [cite_start]Atualmente, sou Estagiário na **ChatPlus** e atuo como Desenvolvedor Fullstack na **Webba**[cite: 56, 65, 66].
 
-* [cite_start]**🎓 Formação:** Engenharia de Software - UFG (Cursando)[cite: 49].
-* [cite_start]**🛠️ Foco Atual:** Golang, Python, Kafka, Docker e Ecossistema Meta[cite: 64, 72, 79].
-* [cite_start]**📊 Dados:** Especialista em integração de APIs, bancos SQL e visualização via Looker Studio/Power BI[cite: 63, 64, 82].
+[cite_start]Focado em **Engenharia de Dados e Infraestrutura** [cite: 51][cite_start], possuo experiência no desenvolvimento de automações inteligentes, fluxos de ETL e sistemas escaláveis[cite: 58, 62, 78]. [cite_start]Atualmente, sou Estagiário na **ChatPlus** [cite: 56, 57] [cite_start]e atuo como Desenvolvedor Fullstack na **Webba**[cite: 65, 66].
+
+* [cite_start]🎓 **Formação:** Engenharia de Software - UFG (Cursando)[cite: 49].
+* [cite_start]🛠️ **Foco Atual:** Golang, Python, Kafka, Docker e Ecossistema Meta[cite: 64, 72, 79].
+* [cite_start]📊 **Dados:** Especialista em integração de APIs, bancos SQL e visualização via Looker Studio/Power BI[cite: 63, 64, 82].
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,8 +35,8 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiegoemmanuel2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiegoemmanuel2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiegoemmanuel2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiegoemmanuel2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ### 📫 Contato
