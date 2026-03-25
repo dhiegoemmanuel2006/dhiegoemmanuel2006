@@ -1,7 +1,7 @@
 <h2 align="left">Olá, meu nome é Dhiego Andrade e sou graduando em Engenharia de Software pela UFG.</h2>
 
 ### 🚀 Sobre Mim
-Focado em **Engenharia de Dados e Infraestrutura**, com experiência em automações inteligentes, fluxos de ETL e sistemas escaláveis. Atualmente, sou Estagiário na **ChatPlus** e Desenvolvedor Fullstack na **Webba**.
+Focado em **Engenharia de Dados e Infraestrutura**, com experiência em automações inteligentes, fluxos de ETL e sistemas escaláveis. Atualmente, sou Estagiário na **ChatPlus**.
 
 * 🎓 **Formação:** Engenharia de Software - UFG (Cursando).
 * 🛠️ **Foco Atual:** Golang, Apache Airflow, Python, Kafka e Docker.
