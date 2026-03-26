@@ -4,7 +4,7 @@
 Focado em **Engenharia de Dados e Infraestrutura**, com experiência em automações inteligentes, fluxos de ETL e sistemas escaláveis. Atualmente, sou Estagiário na **ChatPlus**.
 
 * 🎓 **Formação:** Engenharia de Software - UFG (Cursando).
-* 🛠️ **Foco Atual:** Golang, Apache Airflow, Python, Kafka e Docker.
+* 🛠️ **Foco Atual:** SQL, Apache Airflow, Python, Golang, Apache Kafka e Docker.
 * 📊 **Dados:** Integração de APIs, bancos SQL e visualização via Looker Studio/Power BI.
 
 ### 🛠️ Tecnologias e Ferramentas
