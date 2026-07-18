@@ -1,29 +1,18 @@
-<h2 align="left">Olá, meu nome é Dhiego Andrade e sou graduando em Engenharia de Software pela UFG.</h2>
+### AI Engineer & Data Developer | Software Engineering @ UFG
 
-### 🚀 Sobre Mim
-Focado em **Engenharia de Dados e Infraestrutura**, com experiência em automações inteligentes, fluxos de ETL e sistemas escaláveis. Atualmente, sou Estagiário na **ChatPlus** onde atuo na criação de Agentes de IA, Fluxos de Automação utilizando N8N, Suporte a Usuários do sistema e criação de campanhas Meta/Whatsapp, onde crio as campanhas, templates de mensagem, manipulação e tratamento dos dados para as campanhas.
+Building scalable data architectures and integrating AI into automated workflows.
 
-* 🎓 **Formação:** Engenharia de Software - UFG (Cursando).
-* 🛠️ **Foco Atual:** SQL, Apache Airflow, Python, Golang, Apache Kafka e Docker.
-* 📊 **Dados:** Integração de APIs, bancos SQL e visualização via Looker Studio/Power BI.
+## 🛠️ Tech Stack & Tools
+* **Languages:** Python, Go, SQL
+* **AI & Automation:** n8n, LLM Integration, AI Automation Workflows
+* **Data & Orchestration:** Apache Airflow, Apache Kafka, Docker
+* **Databases:** PostgreSQL, Supabase, Redis
 
-### 🛠️ Tecnologias e Ferramentas
+## 🎯 Current Focus
+* Developing Data Pipelines and AI Agents
+* Event Streaming and Data Architecture
+* Software Engineering & Machine Learning
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 📈 Estatísticas do GitHub
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiegoemmanuel2006&show_icons=true&locale=en&layout=compact" alt="dhiegoemmanuel2006" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiegoemmanuel2006&show_icons=true&locale=en" alt="dhiegoemmanuel2006" /></p>
-
-### 📫 Contato
-
-<div align="left">
-  <a href="mailto:dhiego12052006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhiegoandrade/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent)
