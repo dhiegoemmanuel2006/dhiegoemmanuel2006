@@ -1,4 +1,4 @@
-### AI Engineer & AI Devoloper| Software Engineering @ UFG
+### AI Engineer & AI Developer| Software Engineering @ UFG
 Building scalable data architectures and integrating AI into automated workflows.
 
 ## Graduating
