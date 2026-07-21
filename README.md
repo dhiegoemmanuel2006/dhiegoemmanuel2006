@@ -11,8 +11,7 @@ Building scalable data architectures and integrating AI into automated workflows
 ## 🎯 Current Focus
 * Developing Data Pipelines and AI Agents
 * Event Streaming and Data Architecture
-* Software Engineering & Machine Learning
+* Software Engineering and AI Engineering
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhiegoemmanuel2006O&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegoemmanuel2006&layout=compact&theme=transparent)
+
+
